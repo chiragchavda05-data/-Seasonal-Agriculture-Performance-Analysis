@@ -29,7 +29,7 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── 📓 Seasonal_Agriculture_Performance_Analysis.ipynb   # Main Jupyter Notebook
 ├── 📊 seasonal_agriculture_performance_dataset.csv      # Dataset (4000 records)
 ├── 📄 Major_Project_Seasonal_Agriculture_Performance_Analysis_.pdf  # Project Brief
-├── 📑 VOIS_Major_Project_PPT_Submission_Template.pptx   # Presentation
+├── 📑 Seasonal-Agriculture-Performance-Analysis.pptx   # Presentation
 └── 📝 README.md                                         # This file
 ```
 
